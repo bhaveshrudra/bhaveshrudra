@@ -31,18 +31,36 @@
 <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,spring,mysql,mongodb,postgres,firebase,supabase,git,github,docker,linux,vscode,idea,figma,postman,arduino,tensorflow,pytorch,opencv&perline=8"/>
 </p>
 
-## 💬 Motivation
+## 💬 Quote
 
-> **"Small steps every day lead to big success." 🚀**
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1500&color=36BCF7&center=true&vCenter=true&width=750&lines=Small+steps+every+day+lead+to+big+success.;Keep+Learning.+Keep+Building.;Consistency+beats+talent.;Dream+Big.+Code+Bigger.+🚀"/>
+
+</p>
+
+---
+
 ## 👾 Pac-Man Contribution Graph
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/bhaveshrudra/bhaveshrudra/output/pacman-contribution-graph-dark.svg"/>
 </p>
+
 ---
----
+
 <div align="center">
+
 ## ⭐ Thanks for Visiting!
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding!;See+you+again!+👋"/>
-<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Have+an+amazing+day!+😊;Let's+build+something+awesome+together!+🚀"/>
+
+<br><br>
+
 ### 💻 Code • Build • Sleep • Repeat 🚀
-<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:6A5ACD&height=120&section=footer"/></div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+
+</div>
