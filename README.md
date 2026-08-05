@@ -115,3 +115,152 @@
 </a>
 
 </p>
+---
+
+# ⚙️ Backend
+
+<p align="left">
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" title="Express.js"/>
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+<img src="https://skillicons.dev/icons?i=spring" title="Spring Boot"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
+</a>
+
+</p>
+
+---
+
+# 🗄️ Database
+
+<p align="left">
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
+</a>
+
+<a href="https://supabase.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=supabase" title="Supabase"/>
+</a>
+
+</p>
+
+---
+
+# ☁️ Cloud & DevOps
+
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" title="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+</a>
+
+<a href="https://ubuntu.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+</a>
+
+<a href="https://vercel.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vercel" title="Vercel"/>
+</a>
+
+<a href="https://www.netlify.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=netlify" title="Netlify"/>
+</a>
+
+</p>
+
+---
+
+# 🤖 AI / ML
+
+<p align="left">
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
+</a>
+
+<a href="https://opencv.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/>
+</a>
+
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+</p>
+
+---
+
+# 🛠️ Tools
+
+<p align="left">
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+</a>
+
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+<img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
+</a>
+
+<a href="https://www.arduino.cc/" target="_blank">
+<img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
+</a>
+
+<a href="https://www.canva.com/" target="_blank">
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</a>
+
+</p>
