@@ -34,19 +34,15 @@
 ## 💬 Motivation
 
 > **"Small steps every day lead to big success." 🚀**
-
 ## 👾 Pac-Man Contribution Graph
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/bhaveshrudra/bhaveshrudra/output/pacman-contribution-graph-dark.svg"/>
 </p>
-
 ---
-
-<h3 align="center">⭐ Thanks for Visiting!</h3>
-
-<p align="center">
-💻 <b>Code • Build • Sleep • Repeat 🚀</b>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+---
+<div align="center">
+## ⭐ Thanks for Visiting!
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding!;See+you+again!+👋"/>
+<br>
+### 💻 Code • Build • Sleep • Repeat 🚀
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:6A5ACD&height=120&section=footer"/></div>
