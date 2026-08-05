@@ -14,7 +14,7 @@
 
 # 🙋 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRsdjNwd2R3dWQ4N3g2M2VhaG9jZmR2NWFwaTR0MXNjc2h6OGFtYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 🎓 **B.Tech Information Technology Student**
 
