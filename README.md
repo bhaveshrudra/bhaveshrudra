@@ -264,3 +264,55 @@
 </a>
 
 </p>
+
+---
+
+# 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 👾 Pac-Man Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/bhaveshrudra/bhaveshrudra/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+
+</div>
+
+> ⚠️ **Don't worry if the Pac-Man animation doesn't appear yet.**
+>
+> We'll enable it in **Part 4** by adding a GitHub Action. Once it's set up, it updates automatically every day.
+
+---
+
+<div align="center">
+
+# ⭐ Thanks for Visiting!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding!;See+you+again!"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💻
+
+# Code • Build • Sleep • Repeat 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+
+</div>
