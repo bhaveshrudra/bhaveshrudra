@@ -326,12 +326,202 @@ while(alive){
 
 </div>
 
----
+<!-- ========================= FEATURED PROJECTS ========================= -->
 
-<h2 align="center">⭐ Thanks for Visiting!</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
-If you like my work, consider giving a ⭐ to my repositories!
+<a href="https://github.com/bhaveshrudra">
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=bhaveshrudra&repo=Emotion-Adaptive-Smart-Desk-Lamp&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/bhaveshrudra">
+<img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=bhaveshrudra&repo=InspireX&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+> **⚠ IMPORTANT**
+>
+> Replace the repository names above with your actual repository names.
+>
+> Example:
+>
+> ```
+> repo=emotion-adaptive-smart-desk-lamp
+> ```
+>
+> Use the exact repository name.
+
+---
+
+# 💼 What I'm Working On
+
+```yaml
+🚀 Current Focus:
+  - Java Development
+  - Data Structures & Algorithms
+  - Spring Boot
+  - React.js
+  - Full Stack Development
+
+🎯 Looking For:
+  - Software Development Internship
+  - Open Source Contributions
+  - Hackathons
+  - Real-world Projects
+```
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+| Technology | Progress |
+|------------|----------|
+| ☕ Java | ██████████ 90% |
+| 🌳 Data Structures | ████████░░ 80% |
+| ⚛ React | ██████░░░░ 60% |
+| 🍃 Spring Boot | ████░░░░░░ 40% |
+| 🗄 SQL | ███████░░░ 70% |
+| ☁ Git & GitHub | █████████░ 90% |
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🏅 B.Tech Information Technology Student
+
+🏅 Building Real-World Software Projects
+
+🏅 Learning Full Stack Development
+
+🏅 Passionate about Artificial Intelligence
+
+🏅 Exploring Open Source
+
+🏅 Daily Problem Solver
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+| Certificate | Status |
+|-------------|--------|
+| Tata GenAI Powered Data Analytics | ✅ Completed |
+| Code for Bharat Python Programming | ✅ Completed |
+| Java Programming | 🚀 In Progress |
+| Full Stack Development | 🚀 In Progress |
+| NPTEL Courses | 📚 Planned |
+
+</div>
+
+---
+
+# 🛠 Development Journey
+
+```text
+2025
+│
+├── Started Programming
+│
+├── Learned C / C++
+│
+├── Learned Python
+│
+└── Started Web Development
+      │
+2026
+│
+├── Learning Java
+│
+├── Data Structures
+│
+├── Git & GitHub
+│
+├── AI Projects
+│
+├── Emotion Adaptive Smart Desk Lamp
+│
+├── InspireX
+│
+└── Full Stack Development
+```
+
+---
+
+# 📈 2026 Roadmap
+
+- ✅ Master Java
+- ✅ Master DSA
+- ✅ Build 10+ Projects
+- ✅ Learn React
+- ✅ Learn Spring Boot
+- ✅ Learn SQL
+- ✅ Build Portfolio Website
+- ✅ Get Internship
+- ✅ Contribute to Open Source
+
+---
+
+# 💡 Developer Philosophy
+
+> **"Great software isn't built in a day. It's built one commit at a time."**
+
+---
+
+# 🎯 Interests
+
+💻 Software Engineering
+
+🤖 Artificial Intelligence
+
+🌐 Web Development
+
+📱 Mobile Apps
+
+☁ Cloud Computing
+
+🔐 Cyber Security
+
+📊 Data Analytics
+
+🚀 Open Source
+
+---
+
+# 📫 Contact Me
+
+📧 **Email**
+
+```
+rudrabhavesh2@gmail.com
+```
+
+💼 **LinkedIn**
+
+```
+https://www.linkedin.com/in/bhavesh-kumar-rudra28/
+```
+
+🌍 **Portfolio**
+
+```
+🚧 Coming Soon...
+```
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for scrolling this far!
+
+### If you like my work, don't forget to ⭐ my repositories.
 
 </div>
