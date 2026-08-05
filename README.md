@@ -215,3 +215,123 @@
 *"Code. Learn. Build. Repeat."*
 
 </div>
+
+
+<!-- ========================= GITHUB ANALYTICS ========================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhaveshrudra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshrudra&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bhaveshrudra&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaveshrudra&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bhaveshrudra&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+<h2 align="center">📊 Profile Summary</h2>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaveshrudra&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhaveshrudra&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhaveshrudra&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhaveshrudra&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhaveshrudra&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+<h2 align="center">💬 Random Dev Quote</h2>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<h2 align="center">👀 Visitor Counter</h2>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bhaveshrudra&style=for-the-badge&color=0891b2"/>
+
+</div>
+
+---
+
+<h2 align="center">⚡ Fun Fact</h2>
+
+<div align="center">
+
+```text
+while(alive){
+    Learn();
+    Build();
+    Commit();
+    Repeat();
+}
+```
+
+</div>
+
+---
+
+<h2 align="center">⭐ Thanks for Visiting!</h2>
+
+<div align="center">
+
+If you like my work, consider giving a ⭐ to my repositories!
+
+</div>
