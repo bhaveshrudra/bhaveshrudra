@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Rudra</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Focusing+on+js;Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Building+Projects+That+Matter"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Lets's+Build+Something+Together;Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Building+Projects+That+Matter"/>
 </p>
 
 <p align="center">
