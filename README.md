@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Rudra</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Building+Projects+That+Matter"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Focusing+on+js;Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Building+Projects+That+Matter"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/bhaveshrudra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 <a href="https://www.linkedin.com/in/bhavesh-kumar-rudra28/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:rudrabhavesh2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
