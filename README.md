@@ -12,10 +12,14 @@
 
 ## 🙋 About Me
 
-- 🎓 **B.Tech Information Technology** @ Vardhaman College of Engineering
-- 📍 Hyderabad, India
-- 💻 Passionate about Java, Full Stack Development & AI
-- 🚀 Building projects and continuously improving my skills
+
+💻 Passionate about **Full-Stack Development, Java & AI**
+🚀 Building real-world web applications and AI-powered projects
+🌱 Continuously learning **React, Node.js, MongoDB, Firebase & Python**
+🤖 Exploring **AI integration, automation & modern UI/UX**
+🔧 Interested in **Git, GitHub, APIs, backend development & scalable applications**
+🤝 Open to collaborating on **full-stack, AI & open-source projects**
+
 
 ## 🌐 Connect With Me
 
