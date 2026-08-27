@@ -35,9 +35,39 @@
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,spring,mysql,mongodb,postgres,firebase,supabase,git,github,docker,linux,vscode,idea,figma,postman,arduino,tensorflow,pytorch,opencv&perline=8" />
+<a href="https://www.java.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=java" width="48" /> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=python" width="48" /> </a>
+<a href="https://en.cppreference.com/w/c" target="_blank"> <img src="https://skillicons.dev/icons?i=c" width="48" /> </a>
+<a href="https://isocpp.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" width="48" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" width="48" /> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=ts" width="48" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://skillicons.dev/icons?i=html" width="48" /> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css" width="48" /> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" width="48" /> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" width="48" /> </a>
+<a href="https://react.dev/" target="_blank"> <img src="https://skillicons.dev/icons?i=react" width="48" /> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nextjs" width="48" /> </a>
+<a href="https://nodejs.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" width="48" /> </a>
+<a href="https://expressjs.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=express" width="48" /> </a>
+<a href="https://spring.io/" target="_blank"> <img src="https://skillicons.dev/icons?i=spring" width="48" /> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mysql" width="48" /> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" width="48" /> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=postgres" width="48" /> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase" width="48" /> </a>
+<a href="https://supabase.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=supabase" width="48" /> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" width="48" /> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=github" width="48" /> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=docker" width="48" /> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" width="48" /> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=vscode" width="48" /> </a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" width="48" /> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=figma" width="48" /> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=postman" width="48" /> </a>
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://skillicons.dev/icons?i=arduino" width="48" /> </a>
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=tensorflow" width="48" /> </a>
+<a href="https://pytorch.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=pytorch" width="48" /> </a>
+<a href="https://opencv.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=opencv" width="48" /> </a>
 </p>
-
 
 ## 💬 Quote
 
